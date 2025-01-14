@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    background-color: rgb(4, 4, 61);
+    margin-top: 50px;
+
+}
+.tab{
+    width: 600px;
+}
+.tab thead ,caption{
+    color: aqua;
+   font-size: large;
+}
+caption{
+    margin: 10px;
+}
+.tabody{
+    color: antiquewhite;
+}
